@@ -1,5 +1,5 @@
 # Craft Economy
-**craft** is a blockchain economy where value is derived from playing Minecraft
+**Craft Economy** is a blockchain based economy where value is derived from playing Minecraft.
 
 ## Get started
 
